@@ -1,0 +1,5 @@
+[2025-11-26 14:37:57] INFO: Iniciando carregamento de dados do estado: AC
+[2025-11-26 14:38:10] Download concluído (2,75 MB) - Tempo: 13483 ms (13,48 s)
+[2025-11-26 14:38:10] Extração do ZIP concluída - Tempo: 133 ms (0,13 s)
+[2025-11-26 14:38:11] Leitura do CSV concluída (357.370 registros) - Tempo: 987 ms (0,99 s)
+[2025-11-26 14:38:11] Construção da árvore binária - Tempo: 51 ms (0,05 s)
