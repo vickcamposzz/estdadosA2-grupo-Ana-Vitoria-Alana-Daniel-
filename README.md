@@ -2,7 +2,7 @@
 
 ## 👥 Grupo - Integrantes:
 - **Ana Vitoria**
-- **Ana Caroline** 
+- **Alana Caroline** 
 - **Daniel Holanda**
 
 ## 📋 Descrição
